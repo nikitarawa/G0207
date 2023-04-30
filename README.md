@@ -2,8 +2,8 @@
 
 Assignment_3
 
-Broad topic: Free speech, politics and government
-Sub topic: Fake news, filter bubbles and echo chambers
+Broad topic: Free speech, politics and government\
+Sub topic: Fake news, filter bubbles and echo chambers\
 Focus: Identification of fake information
 
 # DESCRIPTION OF TOPIC:
@@ -11,7 +11,7 @@ Fake news affects huge parts of the population, and is very influential. It also
 
 # GROUP ROLES:
 
-Edward Keith: Presentation Lead
-Junxiu Wu: Programming
-Nikita Rawat: Research Lead
+Edward Keith: Presentation Lead\
+Junxiu Wu: Programming\
+Nikita Rawat: Research Lead\
 Shared: Content generation, editing, design
